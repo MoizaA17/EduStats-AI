@@ -29,7 +29,9 @@ EduStats AI is a simple student marks analysis web application built with **Pyth
 
 ## 📸 Application Preview
 
-> *(Add screenshots here after uploading them to the repository.)*
+! [Screenshot 1](assets/SS1.png)
+! [Screenshot 2](assets/SS2.png)
+! [Screenshot 3](assets/SS3.png)
 
 ---
 
