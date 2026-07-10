@@ -4,6 +4,18 @@ EduStats AI is a simple student marks analysis web application built with **Pyth
 
 ---
 
+[![Live App](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge)](https://edustats-ai.streamlit.app/)
+
+A simple student marks analysis web application built with **Python, NumPy, and Streamlit**.
+
+## 🚀 Live Demo
+
+👉 **Try the application here:**
+
+https://edustats-ai.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - 📊 Calculate average marks
@@ -46,8 +58,7 @@ EduStats-AI/
 ├── README.md
 ├── .gitignore
 │
-└── utils/
-    └── analyzer.py
+
 ```
 
 ---
@@ -64,12 +75,6 @@ Go into the project folder
 
 ```bash
 cd EduStats-AI
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
 ```
 
 Run the Streamlit application
@@ -94,8 +99,6 @@ streamlit run app.py
 ## 👩‍💻 Developer
 
 **Moizah Kafayat**
-
-BS Information Technology Student
 
 Passionate about AI, Data Science and Python Development.
 
